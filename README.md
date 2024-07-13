@@ -1,5 +1,5 @@
 
-Disclaimer The tool below is for educational and practice purposes only, we are not responsible for any harm caused.
+Disclaimer: The tool below is for educational and practice purposes only, we are not responsible for any harm caused.
 
   Author: Neehack, Abdul
 
