@@ -77,7 +77,13 @@ def reset_f_pressed():
 reset_thread = threading.Thread(target=reset_f_pressed)
 reset_thread.daemon = True  # Set the thread as a daemon so it will be killed when the main thread is killed
 reset_thread.start()
-
+1+1
+1+1
+1+1
+1+1
+1+1
+1+3
+1+65
 # Create an instance of the mouse.Listener
 mouse_listener = mouse.Listener(on_scroll=on_scroll)
 
