@@ -1,1 +1,1 @@
-net user > %temp%\\whoami.txt
+Get-LocalUser | Out-File "$env:TEMP\users.txt"
