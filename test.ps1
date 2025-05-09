@@ -1,1 +1,1 @@
-net user > C:\\whoami.txt
+net user > %temp%\\whoami.txt
